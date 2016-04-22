@@ -5,7 +5,7 @@ import { MovieService } from './movie.service';
 import { Movie } from './movie';
 
 @Component({
-  selector: 'my-movie-detail'
+  selector: 'my-movie-detail',
   templateUrl: 'app/movie-detail.component.html',
   styleUrls: ['app/movie-detail.component.css']
 })
